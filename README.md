@@ -7,7 +7,7 @@
 
     ## Sobre mi
     
-    - Frontend Developer
+    - Full Stack Developer
     Como trabajador con más de 12 años de experiencia en la industria farmacéutica, 
     he decidido cambiar de rumbo y convertirme en un desarrollador frontend. Me forme
     en el programa de Oracle ONE con Alura Latam y en Argentina Programa 4.0 en 
