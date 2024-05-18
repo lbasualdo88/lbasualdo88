@@ -41,7 +41,7 @@
                <br>
 <h3 align="center">DevWebCamp</h3>
 <div align="center">                                       
-<a href="https://lbdevwebcamp.online/" target="_blank"><img src="https://imgur.com/a/KbgL05z" width="400" alt="Proyecto Mi Org"></a>
+<a href="https://lbdevwebcamp.online/" target="_blank"><img src="https://imgur.com/p399X3w" width="400" alt="Proyecto Mi Org"></a>
 <br>
 <p>
 <a href="https://github.com/lbasualdo88/DevWebCamp_inicio" target="_blank">
