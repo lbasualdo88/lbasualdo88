@@ -39,19 +39,19 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Proyecto Mi Org</h3>
+<h3 align="center">DevWebCamp</h3>
 <div align="center">                                       
-<a href="https://org-gilt-eta.vercel.app/" target="_blank"><img src="https://i.imgur.com/ytasTxR.png" width="400" alt="Proyecto Mi Org"></a>
+<a href="https://lbdevwebcamp.online/" target="_blank"><img src="https://imgur.com/a/KbgL05z" width="400" alt="Proyecto Mi Org"></a>
 <br>
 <p>
-<a href="https://github.com/lbasualdo88/org" target="_blank">
+<a href="https://github.com/lbasualdo88/DevWebCamp_inicio" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://org-gilt-eta.vercel.app/" target="_blank">
+<a href="https://lbdevwebcamp.online/" target="_blank">
 <img src="https://img.shields.io/badge/-deploy-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p><strong>Mi Org</strong> - En este proyecto diseñado con React, mi objetivo principal fue aprender a usar hooks y props de manera efectiva. También busque mejorar mis habilidades en Figma. Para lograr esto, me enfoque en aplicar buenas prácticas y refactorización en todo momento. Además, trabaje con algunas dependencias que me permitieron trabajar con Node.js.</p>
+</p><strong>DevWebCamp</strong> - El proyecto es una página que promociona un festival de desarrollo (dev) en el que se ofrecen talleres y conferencias. Los usuarios pueden obtener información sobre el evento, talleres y conferencias, incluyendo detalles sobre ponentes, días y horarios. Además, los asistentes pueden adquirir un pase para participar en el festival: virtual, presencial o gratuito. El pase presencial incluye un regalo a elección. Al elegir qué conferencias asistir (hasta 5), ocuparán un lugar que se descontará de los disponibles. El pago es con tarjeta de crédito o PayPal, y es necesario registrarse. La sección de administrador permite editar eventos y ponentes, ver estadísticas y una gráfica de regalos elegidos. Tecnologías: framework similar a Laravel, SASS, Gulp, JavaScript y PHP. El proyecto está alojado en Hostiger, donde pueden verlo y simular la compra de un pase.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
