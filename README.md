@@ -62,9 +62,9 @@
 <table>
 <tr>
 <td width="100%">
-<h3 align="center">Proyecto Blog De Cafe</h3>
+<h3 align="center">Devstagram</h3>
 <div align="center">
-<a href="https://blogdecaffe-lb.netlify.app/" target="_blank"><img src="https://i.imgur.com/K9HLs67.png" width="400" alt="Proyecto Blog De Cafe"></a>
+<a href="https://blogdecaffe-lb.netlify.app/" target="_blank"><img src="https://imgur.com/XecotiT.png" width="400" alt="Proyecto Blog De Cafe"></a>
 <p>
 <a href="https://github.com/lbasualdo88/blogdecafe-lb.github.io" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
