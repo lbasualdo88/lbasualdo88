@@ -64,16 +64,16 @@
 <td width="100%">
 <h3 align="center">Devstagram</h3>
 <div align="center">
-<a href="https://blogdecaffe-lb.netlify.app/" target="_blank"><img src="https://imgur.com/XecotiT.png" width="400" alt="Proyecto Blog De Cafe"></a>
+<a href="https://devstagram.online/" target="_blank"><img src="https://imgur.com/XecotiT.png" width="400" alt="Proyecto Blog De Cafe"></a>
 <p>
-<a href="https://github.com/lbasualdo88/blogdecafe-lb.github.io" target="_blank">
+<a href="https://github.com/lbasualdo88/devstagram-sin-docker-" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://blogdecaffe-lb.netlify.app/" target="_blank">
+<a href="https://devstagram.online/" target="_blank">
 <img src="https://img.shields.io/badge/-deploy-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p><strong>Blog De Cafe</strong> - Este proyecto es un blog de café que se enfoca en la experiencia del usuario. Se priorizó el diseño y la combinación de colores para crear una experiencia visualmente atractiva y fácil de usar. Se utilizó HTML y CSS puro para seguir adquiriendo conocimientos y el uso de los media queries para asegurarse de que el sitio sea compatible con dispositivos móviles.</p>
+<p><strong>Devstagram</strong> - Proyecto Inaugural del Curso de Laravel: Devstagram - Un Clon de Instagram para Desarrolladores. Estoy emocionado de compartir el primer proyecto que desarrollé como parte de mi curso, inspirado en la popular plataforma de redes sociales, Instagram. Devstagram es un clon adaptado para la comunidad de desarrolladores, donde pueden compartir sus proyectos, experiencias y conectar con otros profesionales del campo. Características principales: Autenticación simple: Implementé una autenticación básica que valida el correo electrónico y la contraseña. Perfiles de usuario: Los usuarios pueden personalizar su perfil con detalles básicos como nombre de usuario y foto de perfil. Tecnologías utilizadas: Laravel y Tailwind CSS. Lecciones aprendidas: Este proyecto me proporcionó una sólida comprensión del patrón MVC y consolidó mis habilidades en el desarrollo web. Futuras mejoras: Consideraría implementar mejoras y nuevas características para enriquecer la experiencia de los usuarios si la comunidad muestra interés. PD: ¡Pruebenlo creando una cuenta! Pueden usar un correo de fantasía, como por ejemplo: correo@correo.com. Recuerden que cada dirección de correo electrónico solo puede estar asociada a una cuenta en Devstagram.</p>
 </div>
                                                                                       
 </td>                                                    
