@@ -8,13 +8,13 @@
     ## Sobre mi
     
     - Full Stack Developer
-Después de más de 13 años de experiencia en la industria farmacéutica, he decidido cambiar de rumbo y convertirme en desarrollador de software.
-Me he formado en el programa Oracle ONE con Alura Latam, en Argentina Programa 4.0 en la plataforma de Egg Cooperations, 
-y a través de cursos en Udemy para adquirir los conocimientos necesarios para alcanzar mi objetivo. 
-Mis habilidades incluyen JavaScript, HTML, CSS, Java, MySQL, PHP, Laravel y React. 
-Disfruto del diseño y la creación de interfaces de usuario atractivas y funcionales que mejoren la experiencia del usuario. 
-Estoy buscando oportunidades para aplicar mis habilidades, seguir creciendo, aprendiendo y contribuir de manera significativa.
-<br>
+    Después de más de 13 años de experiencia en la industria farmacéutica, he decidido cambiar de rumbo y convertirme en desarrollador de software.
+    Me he formado en el programa Oracle ONE con Alura Latam, en Argentina Programa 4.0 en la plataforma de Egg Cooperations, 
+    y a través de cursos en Udemy para adquirir los conocimientos necesarios para alcanzar mi objetivo. 
+    Mis habilidades incluyen JavaScript, HTML, CSS, Java, MySQL, PHP, Laravel y React. 
+    Disfruto del diseño y la creación de interfaces de usuario atractivas y funcionales que mejoren la experiencia del usuario. 
+    Estoy buscando oportunidades para aplicar mis habilidades, seguir creciendo, aprendiendo y contribuir de manera significativa.
+    <br>
 
 ## Proyectos 
 <table>
