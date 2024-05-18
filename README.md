@@ -23,16 +23,16 @@
 <td width="50%">
 <h3 align="center">Bienes Raices</h3>
 <div align="center">
-<a href="https://bienes-raices-github-io.vercel.app/" target="_blank"><img src="https://i.imgur.com/HqtWLYX.png" width="400" alt="Proyecto Bienes Raices"></a>
+<a href="https://bienesraiceslb.online/" target="_blank"><img src="https://i.imgur.com/HqtWLYX.png" width="400" alt="Proyecto Bienes Raices"></a>
 <p>
-<a href="https://github.com/lbasualdo88/BienesRaices.github.io" target="_blank">
+<a href="https://github.com/lbasualdo88/BienesRaicesMVC" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://bienes-raices-github-io.vercel.app/" target="_blank">
+<a href="https://bienesraiceslb.online/" target="_blank">
 <img src="https://img.shields.io/badge/-deploy-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p><strong>Bienes Raices</strong> - Este proyecto de página web, Bienes Raíces, fue diseñado para ser fácil de usar y fácil de navegar tanto para el cliente como para el dueño. La página fue creada utilizando HTML, CSS, JavaScript y SASS; y me centre en el diseño y la funcionalidad para garantizar que los visitantes puedan encontrar fácilmente la información que están buscando.</p>
+<p><strong>Bienes Raices</strong> - El proyecto Bienes Raíces inicialmente era estático, y durante su desarrollo, aprendí mucho sobre el frontend. Ahora, he llevado el proyecto al siguiente nivel, convirtiéndolo en una aplicación full stack utilizando PHP, HTML, SASS, Gulp, JavaScript, MySQL, PHPMailer y Composer. En el panel de administrador, el administrador tiene la capacidad de crear, eliminar o modificar propiedades y vendedores. Para estructurar y simplificar el código, he aplicado la arquitectura MVC y el patrón Active Record.</p>
 </div>
                                                                                       
 </td>
