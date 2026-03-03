@@ -19,7 +19,8 @@
     - Bases de Datos: Modelado y normalización en MySQL utilizando Eloquent ORM y herramientas como TablePlus/Workbench.
     - Integraciones y Deploy: Implementación de pagos (PayPal/Mercado Pago), manejo de GitHub (ramas/conflictos) y despliegue en Hostinger, Vercel y Netlify.
 
-    Cuento con más de 14 años de experiencia laboral en la industria farmacéutica bajo estrictas normas de calidad (GMP), lo que me aportó la disciplina y el método que hoy aplico al escribir código y documentar procesos. Actualmente cursando la Tecnicatura en Tecnologías de la Información (UTN).
+    Cuento con más de 14 años de experiencia laboral en la industria farmacéutica bajo estrictas normas de calidad (GMP), lo que me aportó la disciplina y el método que hoy aplico al escribir código y documentar procesos. 
+    Actualmente cursando la Tecnicatura en Tecnologías de la Información (UTN).
 
 
 ## Proyectos 
