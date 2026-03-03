@@ -7,14 +7,21 @@
 
     ## Sobre mi
     
-    - Full Stack Developer
-    Después de más de 13 años de experiencia en la industria farmacéutica, 
-    he decidido cambiar de rumbo y convertirme en desarrollador de software.
-    Me he formado en el programa Oracle ONE con Alura Latam, en Argentina Programa 4.0 en la plataforma de Egg Cooperations, 
-    y a través de cursos en Udemy para adquirir los conocimientos necesarios para alcanzar mi objetivo. 
-    Mis habilidades incluyen JavaScript, HTML, CSS, SASS, Tailwind, Gulp, MySQL, PHP, Laravel y React. 
-    Disfruto del diseño y la creación de interfaces de usuario atractivas y funcionales que mejoren la experiencia del usuario. 
-    Estoy buscando oportunidades para aplicar mis habilidades, seguir creciendo, aprendiendo y contribuir de manera significativa.
+    Desarrollador Full Stack | PHP (Laravel) & React
+
+    Desarrollador de aplicaciones web integrando Laravel para el backend y React para el frontend. Mi formación combina la lógica de programación con el uso de        tecnologías modernas para crear soluciones funcionales y seguras.
+
+    Lo que vengo desarrollando:
+
+    Backend con Laravel: Creación de APIs REST, implementación de autenticación (Sanctum/OAuth), manejo de roles y validaciones estructuradas con Form Requests.
+
+    Frontend con React y Livewire: Desarrollo de interfaces dinámicas y responsivas utilizando Tailwind CSS y gestión de estados.
+
+    Bases de Datos: Modelado y normalización en MySQL utilizando Eloquent ORM y herramientas como TablePlus/Workbench.
+
+    Integraciones y Deploy: Implementación de pagos (PayPal/Mercado Pago), manejo de GitHub (ramas/conflictos) y despliegue en Hostinger, Vercel y Netlify.
+
+    Cuento con más de 14 años de experiencia laboral en la industria farmacéutica bajo estrictas normas de calidad (GMP), lo que me aportó la disciplina y el          método que hoy aplico al escribir código y documentar procesos. Actualmente cursando la Tecnicatura en Tecnologías de la Información (UTN).
 
 
 ## Proyectos 
