@@ -9,17 +9,15 @@
     
     Desarrollador Full Stack | PHP (Laravel) & React
 
-    Desarrollador de aplicaciones web integrando Laravel para el backend y React para el frontend. Mi formación combina la lógica de programación con el uso de        tecnologías modernas para crear soluciones funcionales y seguras.
+    Desarrollador de aplicaciones web integrando Laravel para el backend y React para el frontend. 
+    Mi formación combina la lógica de programación con el uso de tecnologías modernas para crear soluciones funcionales y seguras.
 
     Lo que vengo desarrollando:
 
-    Backend con Laravel: Creación de APIs REST, implementación de autenticación (Sanctum/OAuth), manejo de roles y validaciones estructuradas con Form Requests.
-
-    Frontend con React y Livewire: Desarrollo de interfaces dinámicas y responsivas utilizando Tailwind CSS y gestión de estados.
-
-    Bases de Datos: Modelado y normalización en MySQL utilizando Eloquent ORM y herramientas como TablePlus/Workbench.
-
-    Integraciones y Deploy: Implementación de pagos (PayPal/Mercado Pago), manejo de GitHub (ramas/conflictos) y despliegue en Hostinger, Vercel y Netlify.
+    - Backend con Laravel: Creación de APIs REST, implementación de autenticación (Sanctum/OAuth), manejo de roles y validaciones estructuradas con Form Requests.
+    - Frontend con React y Livewire: Desarrollo de interfaces dinámicas y responsivas utilizando Tailwind CSS y gestión de estados.
+    - Bases de Datos: Modelado y normalización en MySQL utilizando Eloquent ORM y herramientas como TablePlus/Workbench.
+    - Integraciones y Deploy: Implementación de pagos (PayPal/Mercado Pago), manejo de GitHub (ramas/conflictos) y despliegue en Hostinger, Vercel y Netlify.
 
     Cuento con más de 14 años de experiencia laboral en la industria farmacéutica bajo estrictas normas de calidad (GMP), lo que me aportó la disciplina y el          método que hoy aplico al escribir código y documentar procesos. Actualmente cursando la Tecnicatura en Tecnologías de la Información (UTN).
 
